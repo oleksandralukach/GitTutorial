@@ -1,3 +1,10 @@
 Working on a test case.
 Learning how to revert changes
 Learning how to resolve conflict
+
+Learning how git fetch and git pull work.
+
+Now lets see how git fetch work
+It will not merge or apply changes to our local repo
+
+Let's see changes before merging them
