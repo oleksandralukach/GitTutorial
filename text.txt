@@ -7,3 +7,7 @@ My teammate's code!
 Another sdet added some code.
 
 Demo of git merge command.
+
+More changes
+
+!!!
