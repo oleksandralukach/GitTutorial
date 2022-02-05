@@ -1,3 +1,5 @@
 Working on a test case.
 Learning how to revert changes
 Learning how to resolve conflict
+
+Learning how git fetch and git pull work.
