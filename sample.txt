@@ -6,3 +6,5 @@ Learning how git fetch and git pull work.
 
 Now lets see how git fetch work
 It will not merge or apply changes to our local repo
+
+Lets see changes brfore merging them
